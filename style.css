@@ -1,0 +1,12 @@
+body {}
+
+.nav-item {
+    padding-right: 50px
+}
+
+textarea {
+    width: 80%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
