@@ -1,8 +1,14 @@
-body {}
+/* body {
+    background-color: black;
+} */
 
 .nav-item {
     padding-right: 50px
 }
+
+/* h4 {
+    color: white;
+} */
 
 textarea {
     width: 80%;
